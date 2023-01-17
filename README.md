@@ -1,1 +1,1 @@
-"# NetRunner_py" 
+Лекции и ДЗ по курсу Pyhton от NetRunner
